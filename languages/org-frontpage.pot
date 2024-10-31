@@ -1,0 +1,113 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Organisation FrontPage\n"
+"POT-Creation-Date: 2017-01-19 12:46+0100\n"
+"PO-Revision-Date: 2017-01-19 12:44+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: org-frontpage.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: org-frontpage-plugin-admin.php:8
+msgid "Action denied"
+msgstr ""
+
+#: org-frontpage-plugin-admin.php:27
+msgid "Homepage Settings"
+msgstr ""
+
+#: org-frontpage-plugin-admin.php:30
+msgid "Posts on the home page"
+msgstr ""
+
+#: org-frontpage-plugin-admin.php:39
+msgid "Total number of posts on the home page"
+msgstr ""
+
+#: org-frontpage-plugin-admin.php:42
+msgid "Number of posts at the top of the home page"
+msgstr ""
+
+#: org-frontpage-plugin-admin.php:46
+msgid "The posts displayed on the home page are summarized below"
+msgstr ""
+
+#: org-frontpage-plugin-admin.php:47
+msgid ""
+"The selection of these posts cannot be done on this page: it takes place in "
+"the edit page of the post"
+msgstr ""
+
+#: org-frontpage-plugin-admin.php:60 org-frontpage-plugin-admin.php:64
+#: org-frontpage.php:135 org-frontpage.php:139
+msgid "Rank"
+msgstr ""
+
+#: org-frontpage-plugin-admin.php:64 org-frontpage.php:139
+msgid "Not set"
+msgstr ""
+
+#: org-frontpage-plugin-admin.php:69
+msgid "Save changes"
+msgstr ""
+
+#: org-frontpage.php:75
+msgid "Not on the homepage"
+msgstr ""
+
+#: org-frontpage.php:78
+msgid "#"
+msgstr ""
+
+#: org-frontpage.php:78
+msgid "Home Page"
+msgstr ""
+
+#: org-frontpage.php:92
+msgid "Location on home page"
+msgstr ""
+
+#: org-frontpage.php:114
+msgid "Post location"
+msgstr ""
+
+#: org-frontpage.php:122
+msgid "Posts currently selected"
+msgstr ""
+
+#: org-frontpage.php:190
+msgid "Rank / home page"
+msgstr ""
+
+#: org-frontpage.php:218
+msgid "Front page organization"
+msgstr ""
+
+#: org-frontpage.php:218
+msgid "Org Frontpage"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Organisation FrontPage"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Adding a meta box in the post editor to set the rank of post in the home page"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "B Gineste"
+msgstr ""

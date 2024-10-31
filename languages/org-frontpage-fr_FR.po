@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Organisation FrontPage\n"
+"POT-Creation-Date: 2018-04-15 00:39+0200\n"
+"PO-Revision-Date: 2018-04-15 00:42+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: org-frontpage.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: org-frontpage-plugin-admin.php:35
+msgid "Action denied"
+msgstr "Action rejetée"
+
+#: org-frontpage-plugin-admin.php:71
+msgid "Homepage Settings"
+msgstr "Paramètres de la page d’accueil"
+
+#: org-frontpage-plugin-admin.php:74
+msgid "Posts on the home page"
+msgstr "Articles affichés sur la page d'accueil"
+
+#: org-frontpage-plugin-admin.php:83
+msgid "Total number of posts on the home page"
+msgstr "Nombre total d'articles sur la page d'accueil"
+
+#: org-frontpage-plugin-admin.php:86
+msgid "Number of posts at the top of the home page"
+msgstr "Nombre d'articles en haut de la page d'accueil"
+
+#: org-frontpage-plugin-admin.php:90 org-frontpage-plugin-admin.php:101
+msgid "Save changes"
+msgstr "Sauvegarder les modifications"
+
+#: org-frontpage-plugin-admin.php:93
+msgid "Selection of posts"
+msgstr "Choix des articles de la page d'accueil"
+
+#: org-frontpage-plugin-admin.php:95
+msgid "The posts displayed on the home page are summarized below"
+msgstr ""
+"Les articles affichés sur la page d'accueil sont récapitulés ci-dessous"
+
+#: org-frontpage-plugin-admin.php:96
+msgid ""
+"The selection of these posts can be done on this page: it also takes place "
+"in the edit page of the post"
+msgstr ""
+"Le choix de ces articles peut être modifié sur cette page : il peut "
+"s'effectuer aussi dans la page d'édition de l'article"
+
+#: org-frontpage-plugin-admin.php:99
+msgid "Nombre d'articles de la liste de choix"
+msgstr ""
+
+#: org-frontpage-plugin-admin.php:125 org-frontpage.php:166
+#: org-frontpage.php:170
+msgid "Rank"
+msgstr "Rang"
+
+#: org-frontpage-plugin-admin.php:126 org-frontpage.php:170
+msgid "Not set"
+msgstr "Non défini"
+
+#: org-frontpage-plugin-admin.php:141
+msgid "Modify post range"
+msgstr "Actualiser l'article de rang"
+
+#: org-frontpage.php:92
+msgid "Not on the homepage"
+msgstr "Pas sur la page d'accueil"
+
+#: org-frontpage.php:95
+msgid "#"
+msgstr "N°"
+
+#: org-frontpage.php:95
+msgid "Home Page"
+msgstr "Page d’accueil"
+
+#: org-frontpage.php:111
+msgid "Location on home page"
+msgstr "Position sur la page d'accueil"
+
+#: org-frontpage.php:140
+msgid "Post location"
+msgstr "Position de l'article"
+
+#: org-frontpage.php:148
+msgid "Posts currently selected"
+msgstr "Articles actuellement sélectionnés"
+
+#: org-frontpage.php:281
+msgid "Rank / home page"
+msgstr "Rang / page d'accueil"
+
+#: org-frontpage.php:309
+msgid "Front page organization"
+msgstr "Organisation de la page d'accueil"
+
+#: org-frontpage.php:309
+msgid "Org Frontpage"
+msgstr "Org Frontpage"
+
+#. Plugin Name of the plugin/theme
+msgid "Organisation FrontPage"
+msgstr "Organisation FrontPage"
+
+#. Description of the plugin/theme
+msgid ""
+"Adding a meta box in the post editor to set the rank of post in the home page"
+msgstr ""
+"Ajout d'une meta box dans l'éditeur d'articles pour définir le rang de "
+"l'article courant dans la page d'accueil"
+
+#. Author of the plugin/theme
+msgid "B Gineste"
+msgstr "B Gineste"
